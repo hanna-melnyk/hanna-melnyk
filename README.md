@@ -4,7 +4,8 @@
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/hanna--melnyk/)
 
   ### My recent projects:
-- [To-do list application](https://github.com/hanna-melnyk/todo)
+- [To-do list app](https://github.com/hanna-melnyk/todo)
+- [AI quote generator app](https://github.com/hanna-melnyk/ai-quotes)
 
 <!---
 hanna-melnyk/hanna-melnyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
