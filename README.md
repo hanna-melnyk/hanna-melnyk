@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning React
 - 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/hanna--melnyk/)
 
+  ### My recent projects:
+- [To-do list application](https://github.com/hanna-melnyk/todo)
 
 <!---
 hanna-melnyk/hanna-melnyk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
