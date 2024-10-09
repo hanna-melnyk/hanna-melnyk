@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanna-melnyk
-- 👀 I’m interested in boxing, yoga, psychology, and programming languages 
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/hanna-melnyk-375636212/)
+- 👀 I’m interested in UI design and Data Science
+- 🌱 I’m currently learning React
+- 📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/hanna--melnyk/)
 
 
 <!---
